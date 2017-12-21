@@ -11,20 +11,27 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "untitled-18.css"], "outOfDate":[]};
 </script>
   
-  <title>Home</title>
+  <title>Untitled 18</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=25414271" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/untitled-18.css?crc=98684615" id="pagesheet"/>
    </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
-   <img class="colelem" id="u128-7" alt="SANTOOOOOOO!!! CLICK THE BUTTON BELLOW" width="380" height="97" src="images/u128-7.png?crc=363733329"/><!-- rasterized frame -->
-   <a class="nonblock nontext colelem" id="u323" href="untitled-15.html"><!-- simple frame --></a>
-   <div class="verticalspacer" data-offset-top="437" data-content-above-spacer="437" data-content-below-spacer="133"></div>
+   <div class="browser_width colelem" id="u989-7-bw">
+    <div class="clearfix" id="u989-7"><!-- content -->
+     <p><span id="u989">Acha ek bath puchu ?</span></p>
+     <p id="u989-3">&nbsp;</p>
+     <p><span id="u989-4">Sach bolna!!!</span></p>
+    </div>
+   </div>
+   <a class="nonblock nontext Button rounded-corners clearfix colelem" id="buttonu1037" href="untitled-16.html"><!-- container box --><div class="clearfix grpelem" id="u1055-4"><!-- content --><p><span id="u1055">Haan BOLUNGI</span></p></div></a>
+   <a class="nonblock nontext Button rounded-corners clearfix colelem" id="buttonu1046" href="untitled-17.html"><!-- container box --><div class="clearfix grpelem" id="u1058-4"><!-- content --><p><span id="u1058">NEHI BOLUNGI</span></p></div></a>
+   <div class="verticalspacer" data-offset-top="431" data-content-above-spacer="431" data-content-below-spacer="139"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -41,6 +48,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

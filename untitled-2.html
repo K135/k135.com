@@ -11,20 +11,29 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "untitled-2.css"], "outOfDate":[]};
 </script>
   
-  <title>Home</title>
+  <title>Untitled 2</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=25414271" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/untitled-2.css?crc=205328427" id="pagesheet"/>
    </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
-   <img class="colelem" id="u128-7" alt="SANTOOOOOOO!!! CLICK THE BUTTON BELLOW" width="380" height="97" src="images/u128-7.png?crc=363733329"/><!-- rasterized frame -->
-   <a class="nonblock nontext colelem" id="u323" href="untitled-15.html"><!-- simple frame --></a>
-   <div class="verticalspacer" data-offset-top="437" data-content-above-spacer="437" data-content-below-spacer="133"></div>
+   <div class="browser_width colelem" id="u1179-10-bw">
+    <div class="clearfix" id="u1179-10"><!-- content -->
+     <p><span id="u1179">AP BAS EK DIN KELIYE MERE SATH BAHAR AAOGI NA ?</span></p>
+     <p id="u1179-3">&nbsp;</p>
+     <p><span id="u1179-4">I PROMISE YOU'LL FEEL GOOD.</span></p>
+     <p id="u1179-6">&nbsp;</p>
+     <p><span id="u1179-7">&nbsp;PLEASE!!!!</span></p>
+    </div>
+   </div>
+   <a class="nonblock nontext Button rounded-corners clearfix colelem" id="buttonu1182" href="untitled-21.html"><!-- container box --><div class="clearfix grpelem" id="u1191-4"><!-- content --><p>YES</p></div></a>
+   <a class="nonblock nontext Button rounded-corners clearfix colelem" id="buttonu1203" href="untitled-21.html"><!-- container box --><div class="clearfix grpelem" id="u1204-4"><!-- content --><p>YAA DEFINITELY</p></div></a>
+   <div class="verticalspacer" data-offset-top="517" data-content-above-spacer="517" data-content-below-spacer="53"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -41,6 +50,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
