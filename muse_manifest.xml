@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="K135.GITHUB.IO" resolutions="1x" timestamp="1513901286114">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="K135.GITHUB.IO" resolutions="1x" timestamp="1513901518171">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="untitled-17.css" crc="241200114" ref="untitled-17"/>
+    <file name="untitled-17.css" crc="461611448" ref="untitled-17"/>
     <file name="untitled-6.css" crc="184637138" ref="untitled-6"/>
     <file name="index.css" crc="25414271" ref="index"/>
     <file name="untitled-11.css" crc="223416041" ref="untitled-11"/>
@@ -191,7 +191,7 @@
   <file name="untitled-14.html" crc="4161960946" seo="true" mt="1513895853693" redirect="true"/>
   <file name="untitled-15.html" crc="477496487" seo="true" mt="1513895837799" redirect="true"/>
   <file name="untitled-16.html" crc="193265452" seo="true" mt="1513896404597" redirect="true"/>
-  <file name="untitled-17.html" crc="515512584" seo="true" mt="1513896862260" redirect="true"/>
+  <file name="untitled-17.html" crc="187000624" seo="true" mt="1513901497329" redirect="true"/>
   <file name="untitled-18.html" crc="261394236" seo="true" mt="1513896340135" redirect="true"/>
   <file name="untitled-19.html" crc="109379927" seo="true" mt="1513897159371" redirect="true"/>
   <file name="untitled-20.html" crc="17060102" seo="true" mt="1513896214941" redirect="true"/>
