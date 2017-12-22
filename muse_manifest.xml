@@ -1,4 +1,7 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="K135.GITHUB.IO" resolutions="1x" timestamp="1513901518171">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="K135.GITHUB.IO" resolutions="1x" timestamp="1513902877924">
+  <folder name="assets">
+    <file name="ban-ja-meri-rani-(-tumhari-sulu-)-guru-randhawa(mp3jit.com).mp3" crc="3908388429" seo="true" mt="1513902677000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="untitled-17.css" crc="461611448" ref="untitled-17"/>
@@ -9,7 +12,7 @@
     <file name="untitled-7.css" crc="3931253220" ref="untitled-7"/>
     <file name="untitled-8.css" crc="130625383" ref="untitled-8"/>
     <file name="untitled-12.css" crc="85390634" ref="untitled-12"/>
-    <file name="untitled-2.css" crc="205328427" ref="untitled-2"/>
+    <file name="untitled-2.css" crc="97583757" ref="untitled-2"/>
     <file name="untitled-18.css" crc="98684615" ref="untitled-18"/>
     <file name="untitled-21.css" crc="334158415" ref="untitled-21"/>
     <file name="untitled-3.css" crc="3913016656" ref="untitled-3"/>
@@ -23,7 +26,7 @@
     <file name="untitled-5.css" crc="135410290" ref="untitled-5"/>
     <file name="untitled-19.css" crc="255976835" ref="untitled-19"/>
     <file name="untitled-15.css" crc="59352436" ref="untitled-15"/>
-    <file name="untitled-23.css" crc="4233244803" ref="untitled-23"/>
+    <file name="untitled-23.css" crc="385399588" ref="untitled-23"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:untitled-12:untitled-13:untitled-14:untitled-15:untitled-16:untitled-17:untitled-18:untitled-19:untitled-20:untitled-21:untitled-22:untitled-23"/>
@@ -176,7 +179,7 @@
     </file>
   </folder>
   <file name="index.html" crc="394765822" seo="true" mt="1513895821525" redirect="true"/>
-  <file name="untitled-2.html" crc="25343492" seo="true" mt="1513896949963" redirect="true"/>
+  <file name="untitled-2.html" crc="4218443058" seo="true" mt="1513902541662" redirect="true"/>
   <file name="untitled-3.html" crc="71270535" seo="true" mt="1513896450717" redirect="true"/>
   <file name="untitled-4.html" crc="271725529" seo="true" mt="1513896437303" redirect="true"/>
   <file name="untitled-5.html" crc="387940491" seo="true" mt="1513896166509" redirect="true"/>
@@ -197,5 +200,5 @@
   <file name="untitled-20.html" crc="17060102" seo="true" mt="1513896214941" redirect="true"/>
   <file name="untitled-21.html" crc="4021070646" seo="true" mt="1513897071077" redirect="true"/>
   <file name="untitled-22.html" crc="4198980674" seo="true" mt="1513896553189" redirect="true"/>
-  <file name="untitled-23.html" crc="4129537984" seo="true" mt="1513901259919" redirect="true"/>
+  <file name="untitled-23.html" crc="3816304323" seo="true" mt="1513902715701" redirect="true"/>
 </manifest>
