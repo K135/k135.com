@@ -1,18 +1,19 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.github.io" resolutions="1x" timestamp="1514053877810">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.github.io" resolutions="1x" timestamp="1514054862787">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="99493365" ref="index"/>
-    <file name="untitled-4.css" crc="190799948" ref="untitled-4"/>
-    <file name="untitled-6.css" crc="453319274" ref="untitled-6"/>
-    <file name="untitled-3.css" crc="4169211954" ref="untitled-3"/>
-    <file name="untitled-9.css" crc="389123293" ref="untitled-9"/>
-    <file name="untitled-8.css" crc="427732803" ref="untitled-8"/>
-    <file name="untitled-2.css" crc="4159429453" ref="untitled-2"/>
-    <file name="untitled-5.css" crc="349869903" ref="untitled-5"/>
-    <file name="untitled-7.css" crc="4135309165" ref="untitled-7"/>
-    <file name="untitled-10.css" crc="477039843" ref="untitled-10"/>
-    <file name="untitled-14.css" crc="338717180" ref="untitled-14"/>
-    <file name="untitled-11.css" crc="462387565" ref="untitled-11"/>
+    <file name="index.css" crc="234486219" ref="index"/>
+    <file name="untitled-4.css" crc="3875469534" ref="untitled-4"/>
+    <file name="untitled-6.css" crc="3818769514" ref="untitled-6"/>
+    <file name="untitled-3.css" crc="3935186543" ref="untitled-3"/>
+    <file name="untitled-9.css" crc="3815658661" ref="untitled-9"/>
+    <file name="untitled-8.css" crc="4190684913" ref="untitled-8"/>
+    <file name="untitled-2.css" crc="3923621109" ref="untitled-2"/>
+    <file name="untitled-5.css" crc="529012544" ref="untitled-5"/>
+    <file name="untitled-7.css" crc="95908812" ref="untitled-7"/>
+    <file name="untitled-10.css" crc="500446535" ref="untitled-10"/>
+    <file name="untitled-14.css" crc="4002365659" ref="untitled-14"/>
+    <file name="untitled-11.css" crc="4210774802" ref="untitled-11"/>
+    <file name="master_a-master.css" crc="4191035315" ref="index:untitled-4:untitled-6:untitled-3:untitled-9:untitled-8:untitled-2:untitled-5:untitled-7:untitled-10:untitled-14:untitled-11"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:index:untitled-14"/>
@@ -32,8 +33,8 @@
       <caption webpage="untitled-5" alt=""/>
       <caption webpage="untitled-8" alt=""/>
       <caption webpage="untitled-8" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
       <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-4" alt=""/>
       <caption webpage="index" alt=""/>
@@ -44,8 +45,8 @@
       <caption webpage="untitled-7" alt=""/>
       <caption webpage="untitled-10" alt=""/>
       <caption webpage="untitled-10" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
       <caption webpage="untitled-9" alt=""/>
       <caption webpage="untitled-9" alt=""/>
       <caption webpage="untitled-6" alt=""/>
@@ -54,28 +55,43 @@
     <file name="pretty-hearts-flying-up-animated-gif.gif" crc="330894137" ref="untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:index:untitled-14">
       <caption webpage="untitled-5" alt=""/>
       <caption webpage="untitled-8" alt=""/>
-      <caption webpage="untitled-14" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-9" alt=""/>
       <caption webpage="untitled-4" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-11" alt=""/>
       <caption webpage="untitled-10" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-14" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
       <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+    </file>
+    <file name="ezgifcom-add-text.gif" crc="269260963" seo="true" ref="untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:index:untitled-14">
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="untitled-8" alt=""/>
+      <caption webpage="untitled-14" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-11" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+      <caption webpage="untitled-10" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
       <caption webpage="untitled-9" alt=""/>
       <caption webpage="untitled-6" alt=""/>
     </file>
+    <file name="u1079-4.png" crc="3951183534" ref="untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7:untitled-8:untitled-9:untitled-10:untitled-11:index:untitled-14"/>
   </folder>
-  <file name="untitled-2.html" crc="115323322" seo="true" mt="1514053641162" redirect="true"/>
-  <file name="untitled-3.html" crc="3834398891" seo="true" mt="1514053648283" redirect="true"/>
-  <file name="untitled-4.html" crc="3985061279" seo="true" mt="1514053674672" redirect="true"/>
-  <file name="untitled-5.html" crc="3831186230" seo="true" mt="1514053670305" redirect="true"/>
-  <file name="untitled-6.html" crc="4032654105" seo="true" mt="1514053666608" redirect="true"/>
-  <file name="untitled-7.html" crc="4226222471" seo="true" mt="1514053660818" redirect="true"/>
-  <file name="untitled-8.html" crc="293018840" seo="true" mt="1514053654250" redirect="true"/>
-  <file name="untitled-9.html" crc="3922143118" seo="true" mt="1514053678818" redirect="true"/>
-  <file name="untitled-10.html" crc="4238109124" seo="true" mt="1514053735802" redirect="true"/>
-  <file name="untitled-11.html" crc="126999663" seo="true" mt="1514053615531" redirect="true"/>
-  <file name="index.html" crc="131852982" seo="true" mt="1514052965993" redirect="true"/>
-  <file name="untitled-14.html" crc="317850727" seo="true" mt="1514053751986" redirect="true"/>
+  <file name="untitled-2.html" crc="4140879097" seo="true" mt="1514054756115" redirect="true"/>
+  <file name="untitled-3.html" crc="266913185" seo="true" mt="1514054756115" redirect="true"/>
+  <file name="untitled-4.html" crc="4129337867" seo="true" mt="1514054756115" redirect="true"/>
+  <file name="untitled-5.html" crc="480016775" seo="true" mt="1514054756115" redirect="true"/>
+  <file name="untitled-6.html" crc="4205556768" seo="true" mt="1514054756115" redirect="true"/>
+  <file name="untitled-7.html" crc="89268461" seo="true" mt="1514054756115" redirect="true"/>
+  <file name="untitled-8.html" crc="280877412" seo="true" mt="1514054756115" redirect="true"/>
+  <file name="untitled-9.html" crc="4058109898" seo="true" mt="1514054756115" redirect="true"/>
+  <file name="untitled-10.html" crc="3762194836" seo="true" mt="1514054756115" redirect="true"/>
+  <file name="untitled-11.html" crc="130905643" seo="true" mt="1514054756115" redirect="true"/>
+  <file name="index.html" crc="3952942955" seo="true" mt="1514054756115" redirect="true"/>
+  <file name="untitled-14.html" crc="3929464349" seo="true" mt="1514054756115" redirect="true"/>
 </manifest>
