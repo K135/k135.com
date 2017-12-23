@@ -17,20 +17,26 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Untitled 14</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/untitled-14.css?crc=4168519779" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/untitled-14.css?crc=338717180" id="pagesheet"/>
    </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="u361-10"><!-- content -->
-    <p>WoOoOoO nice</p>
-    <p>&nbsp;</p>
-    <p>Achaa thoda aur sabr kar..</p>
-    <p>&nbsp;</p>
-    <p>click the button</p>
+  <div class="clearfix borderbox" id="page"><!-- column -->
+   <div class="browser_width colelem" id="u1054-15-bw">
+    <div class="clearfix" id="u1054-15"><!-- content -->
+     <p id="u1054">&nbsp;</p>
+     <p id="u1054-3">Itni shiddat se maine tumhe paane ki koshish ki hai ... ki har zarre ne mujhe tumse milane ki saazish ki hai</p>
+     <p id="u1054-4">&nbsp;</p>
+     <p id="u1054-6">Kehte hain agar kisi cheez ko dil se chaho ... to puri kainaat usse tumse milane ki koshish mein lag jaati hai</p>
+     <p id="u1054-7">&nbsp;</p>
+     <p id="u1054-8">&nbsp;</p>
+     <p id="u1054-9">&nbsp;</p>
+     <p id="u1054-10">&nbsp;</p>
+     <p id="u1054-12">par iss mohobath ko kitnai bhi kainaath koshis kare tabbi pura nehi hoga ;P</p>
+     <p>&nbsp;</p>
+    </div>
    </div>
-   <a class="nonblock nontext grpelem" id="u364" href="untitled-13.html"><!-- simple frame --></a>
-   <div class="verticalspacer" data-offset-top="292" data-content-above-spacer="292" data-content-below-spacer="278"></div>
+   <div class="verticalspacer" data-offset-top="534" data-content-above-spacer="533" data-content-below-spacer="37"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -47,6 +53,8 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.resizeHeight('.browser_width');/* resize height */
+Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
